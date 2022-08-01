@@ -1,3 +1,3 @@
 # Caclulator
 Demo 
-https://engmohamedabdo.github.io/Caclulator/
+https://engmohamedabdo.github.io/Calculator/
